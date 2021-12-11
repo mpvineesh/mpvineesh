@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Vineesh
+
+- 🔭 I’m currently working on Javascript
+- 📫 How to reach me: vneesh@gmail.com
 
 <!--
 **mpvineesh/mpvineesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
